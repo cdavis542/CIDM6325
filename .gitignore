@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/Django-3-by-Example/
+/point5/
+.zip
+*/config.py
+*/cert.crt
+*/cert.key
+
